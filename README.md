@@ -3,10 +3,10 @@ An Excel VBA project designed to automate workflows and improve productivity.
 
 # Excel VBA Project
 
-Macro-enabled Excel workbook (`.xlsm`) created using VBA to automate tasks and improve efficiency.
+Macro-enabled Excel workbook () created using VBA to automate tasks and improve efficiency.
 
 ## File
-- `Excel project.xlsm` – Main Excel file with VBA macros
+- `` – Main Excel file with VBA macros
 
 ## How to Use
 1. Download the file
@@ -14,8 +14,7 @@ Macro-enabled Excel workbook (`.xlsm`) created using VBA to automate tasks and i
 3. Enable macros
 
 ## Requirements
-- Microsoft Excel (Desktop)
+- Microsoft Excel
 
 ## Author
-Your Name
 Jagdish
